@@ -1,0 +1,73 @@
+---
+packages:
+- name: apigee-mirror
+  version: d85ee052549f2b4e13e9c5a484aa59012f2225b0
+  fingerprint: d85ee052549f2b4e13e9c5a484aa59012f2225b0
+  sha1: fcb2424e144c72f113cd412810cb34e21754825d
+  dependencies: []
+- name: component
+  version: a4899e15c069edbd868a3da3557fc82eb7cab88e
+  fingerprint: a4899e15c069edbd868a3da3557fc82eb7cab88e
+  sha1: 2babe9e9f065bc90effb59a1a5919a07132fb1cb
+  dependencies: []
+jobs:
+- name: apigee-mirror
+  version: 884e18e94343b2be2263aff03ff53704ec236829
+  fingerprint: 884e18e94343b2be2263aff03ff53704ec236829
+  sha1: c49f1a4e0c1314bea8acc4bc285d8b6318a7ec18
+- name: apigee-validation-test
+  version: 4a246ad97a334a9309d75d654d870434bd9be36e
+  fingerprint: 4a246ad97a334a9309d75d654d870434bd9be36e
+  sha1: 22e881d3e53262f76e7b1bf688f6b91983638558
+- name: apigee-zookeeper
+  version: c1b7003af449991bd67d5de6a91677ed42eb32fb
+  fingerprint: c1b7003af449991bd67d5de6a91677ed42eb32fb
+  sha1: 540b1e752672630df85293f33a1f0ad416bae92f
+- name: apigee-cassandra
+  version: 6acc6f7b1bacbd582e86b9166b129eee71eccdf5
+  fingerprint: 6acc6f7b1bacbd582e86b9166b129eee71eccdf5
+  sha1: 4b277e1a104425af4fc7bea6209385fdc98a50e4
+- name: edge-management-server
+  version: d5a5e967ad15c9a1a3b3a254fcdc1a8d5ce95b1b
+  fingerprint: d5a5e967ad15c9a1a3b3a254fcdc1a8d5ce95b1b
+  sha1: 647d77d747c513aed3e9239bf2e400016e1c49da
+- name: edge-router
+  version: 03c1b87737221c20fbf6f6786baceee951fd5b62
+  fingerprint: 03c1b87737221c20fbf6f6786baceee951fd5b62
+  sha1: 4fd8de3e895ec04fb274f891f83c7109a6b3e3b5
+- name: edge-message-processor
+  version: 9aa8a01c561f6b147e418e158018895c0e3d02a1
+  fingerprint: 9aa8a01c561f6b147e418e158018895c0e3d02a1
+  sha1: dd998b408800183a719274c7209ed1bccd37d21a
+- name: edge-qpid-server
+  version: 6492b082a4c20f046fd7bd6c0d77762a0c4ef0c8
+  fingerprint: 6492b082a4c20f046fd7bd6c0d77762a0c4ef0c8
+  sha1: 3887ab80ab7f86f6fcdd9f65c2ebe119708f7329
+- name: edge-postgres-server
+  version: fd2e648a9675451faa095d8e382ad0f21068a321
+  fingerprint: fd2e648a9675451faa095d8e382ad0f21068a321
+  sha1: ffaa9c186923e7af3591835880cb9930373c12ad
+- name: apigee-elasticsearch
+  version: ad4f3cd73a8d3c073d5ab29a78c4bf81fb9828fd
+  fingerprint: ad4f3cd73a8d3c073d5ab29a78c4bf81fb9828fd
+  sha1: 2f296bf9a6809cdca0d0a4eccc06afcf1b9fa4fa
+- name: baas-usergrid
+  version: da5b2dbc283603bf88dbbfff5e86788ad2714ac9
+  fingerprint: da5b2dbc283603bf88dbbfff5e86788ad2714ac9
+  sha1: 4362daee7944e538f4fe7bf6b9cf77fcda172674
+- name: baas-portal
+  version: 648127d332804efff8d3effa77e4f2be252cd315
+  fingerprint: 648127d332804efff8d3effa77e4f2be252cd315
+  sha1: 53f17574ad2431f222f5df131a6cd23b5f21136b
+- name: apigee-influxdb
+  version: 5a13d671cd55652c57c02f75c85d0a9cdc570be9
+  fingerprint: 5a13d671cd55652c57c02f75c85d0a9cdc570be9
+  sha1: 05f91184d5d01664352c708f45ebe20c28f204ae
+- name: apigee-drupal-devportal
+  version: b56e1747ed6d5ddb9aea508033c588b101b489ff
+  fingerprint: b56e1747ed6d5ddb9aea508033c588b101b489ff
+  sha1: 75e2fc0e137f85ba283f5709aa73f971cafd4098
+commit_hash: '00000000'
+uncommitted_changes: false
+name: edge
+version: 4.17.9-0.0.638
